@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=%E2%9A%9A%20leewatertrue%20%E2%9A%9A&color=gradient&customColorList=15&height=250)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=%E2%9A%9A%20leewatertrue%20%E2%9A%9A&color=gradient&customColorList=27&height=250)
 
 ###  :wave: Hello!
   
@@ -34,9 +34,8 @@
  
   <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leewatertrue&show_icons=true&theme=dracula)<br>
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leewatertrue&show_icons=true&theme=dracula)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwt)](https://solved.ac/lwt/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leewatertrue&layout=compact)](https://github.com/leeewatertrue/github-readme-stats)
+
   
 </div>
