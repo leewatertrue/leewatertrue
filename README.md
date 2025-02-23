@@ -2,7 +2,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&text=%E2%9A%9A%20leewatertrue%20%E2%9A%9A&color=gradient&customColorList=27&height=250)
 
-###  :wave: Hello!
+###  :wave: Welcome !
   
  <br/>
  <br/>
