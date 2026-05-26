@@ -1,46 +1,78 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=%E2%9A%9A%20leewatertrue%20%E2%9A%9A&color=gradient&customColorList=27&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&text=%E2%9A%9A%20leewatertrue%20%E2%9A%9A&color=gradient&customColorList=27&height=250)
 
-###  :wave: Welcome !
-  
- <br/>
- <br/>
-  
-##  :clipboard: Once I've Used 
-  
- <br/>
+### 👋 Welcome !
+Backend Developer · AI Enthusiast · PM & Planning
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS&logoColor=white"> <br> <br>
+</div>
 
-<img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"><br> <br>
+---
 
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"> 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br> <br>
- 
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
-<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker%20IDE&logoColor=black">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=black">
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
- 
-   <br/>
-   <br/>
-   <br/>
- 
-## :floppy_disk: Plus
- 
-  <br/>
+## 📌 Once I've Used
+<div align="center">
+
+##### ⚙️ Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=node.js&logoColor=white)
+
+##### 🗄️ Database & Infra
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+##### 🤖 AI & ML
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+##### 🧰 Tools
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Activities
+<div align="center">
+
+![SKT FLY AI](https://img.shields.io/badge/SKT_FLY_AI_8기-AI_&_백엔드-FF0000?style=flat-square&logo=sk&logoColor=white)
+
+![멋쟁이사자처럼](https://img.shields.io/badge/멋쟁이사자처럼_13th-백엔드_파트-6DB33F?style=flat-square)
+![멋쟁이사자처럼](https://img.shields.io/badge/멋쟁이사자처럼_14th-백엔드_운영진-6DB33F?style=flat-square)
+
+![UMC](https://img.shields.io/badge/UMC_8기-백엔드-FF6B35?style=flat-square)
+![UMC](https://img.shields.io/badge/UMC_9기-PM-FF6B35?style=flat-square)
+
+![Corner](https://img.shields.io/badge/Corner_4기-컴퓨터공학_동아리-4479A1?style=flat-square)
+![GemDuck](https://img.shields.io/badge/GemDuck_1기-게임_개발_&_기획-7B2D8B?style=flat-square)
+</div>
+
+---
+
+
+## 💾 Plus
+<div align="center">
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leewatertrue&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true)](https://github.com/leewatertrue)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwt)](https://solved.ac/lwt/) 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwt)](https://solved.ac/lwt/)
 
-  
 </div>
