@@ -1,5 +1,4 @@
-<div align="center">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&text=%E2%9A%9A%20leewatertrue%20%E2%9A%9A&color=gradient&customColorList=27&height=250)
 
 ### 👋 Welcome !
@@ -56,13 +55,13 @@ Backend Developer · AI Enthusiast · PM & Planning
 
 ![SKT FLY AI](https://img.shields.io/badge/SKT_FLY_AI_8기-AI_&_백엔드-FF0000?style=flat-square&logo=sk&logoColor=white)
 
-![멋쟁이사자처럼](https://img.shields.io/badge/멋쟁이사자처럼_13th-백엔드_파트-6DB33F?style=flat-square)
+![멋쟁이사자처럼](https://img.shields.io/badge/멋쟁이사자처럼_13th-백엔드_아기사자-6DB33F?style=flat-square)
 ![멋쟁이사자처럼](https://img.shields.io/badge/멋쟁이사자처럼_14th-백엔드_운영진-6DB33F?style=flat-square)
 
 ![UMC](https://img.shields.io/badge/UMC_8기-백엔드-FF6B35?style=flat-square)
 ![UMC](https://img.shields.io/badge/UMC_9기-PM-FF6B35?style=flat-square)
 
-![Corner](https://img.shields.io/badge/Corner_4기-컴퓨터공학_동아리-4479A1?style=flat-square)
+![Corner](https://img.shields.io/badge/Corner_4기-프론트엔드-4479A1?style=flat-square)
 ![GemDuck](https://img.shields.io/badge/GemDuck_1기-게임_개발_&_기획-7B2D8B?style=flat-square)
 </div>
 
@@ -74,5 +73,10 @@ Backend Developer · AI Enthusiast · PM & Planning
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leewatertrue&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true)](https://github.com/leewatertrue)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwt)](https://solved.ac/lwt/)
+<br><br>
+[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=leewatertrue&theme=dracula&no-frame=true&row=1&exclude_title=FirstRepository,First+Repository)](https://github.com/leewatertrue)
+[![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=leewatertrue&theme=dracula&hide_border=true)](https://github.com/leewatertrue)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=27&height=150&section=footer)
 
 </div>
