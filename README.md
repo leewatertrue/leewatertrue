@@ -39,7 +39,7 @@
  
   <br/>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leewatertrue&show_icons=true&theme=dracula)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leewatertrue&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/leewatertrue)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwt)](https://solved.ac/lwt/) 
 
   
