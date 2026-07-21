@@ -76,8 +76,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwt)](https://solved.ac/lwt/)
 
-[![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=leewatertrue&theme=dracula&no-frame=true&row=1&exclude_title=FirstRepository)](https://github.com/leewatertrue)
-
 [![activity-graph](https://github-readme-activity-graph.vercel.app/graph?username=leewatertrue&theme=dracula&hide_border=true)](https://github.com/leewatertrue)
 
 ## 📬 Contact
