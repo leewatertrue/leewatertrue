@@ -72,8 +72,6 @@
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/leewatertrue/leewatertrue/output/github-contribution-grid-snake-dark.svg)
-
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leewatertrue&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true)](https://github.com/leewatertrue)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwt)](https://solved.ac/lwt/)
