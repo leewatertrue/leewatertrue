@@ -34,7 +34,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=leewatertrue&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true)](https://github.com/leewatertrue)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=leewatertrue&show_icons=true&theme=dracula&hide_border=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwt)](https://solved.ac/lwt/)
 
