@@ -7,8 +7,6 @@
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=leewatertrue&show_icons=true&theme=dracula&hide_border=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lwt)](https://solved.ac/lwt/)
-
 
 ## 📬 Contact
 
